@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wall -std=c++11 -O3 -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/atools.dir/src/alignment_io.cc.o CMakeFiles/atools.dir/src/atools.cc.o  -o atools 

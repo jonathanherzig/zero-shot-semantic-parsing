@@ -1,0 +1,20 @@
+square feet	en.square_feet	_entity_num_
+900 mission ave	en.housing_unit.900_mission_ave	_entity_
+has a private bath	has_private_bath	_relation_unary_
+123 sesame street	en.housing_unit.123_sesame_street	_entity_
+monthly rent	rent	_relation_num_
+posting date	posting_date	_relation_date_
+neighborhood	neighborhood	_relation_
+neighborhood	en.neighborhood	_entity_type_
+size	size	_relation_num_
+housing type	housing_type	_relation_
+apartment	en.housing.apartment	_entity_
+midtown west	en.neighborhood.midtown_west	_entity_
+dollars	en.dollar	_entity_num_
+allows dogs	allows_dogs	_relation_unary_
+condo	en.housing.condo	_entity_
+housing type	en.housing	_entity_type_
+has a private room	has_private_room	_relation_unary_
+housing unit	en.housing_unit	_entity_type_
+chelsea	en.neighborhood.chelsea	_entity_
+allows cats	allows_cats	_relation_unary_

@@ -1,0 +1,42 @@
+end date	employment_end_date	_relation_date_
+is friends with	friend	_relation_
+gender	gender	_relation_
+university	en.university	_entity_type_
+job title	en.job_title	_entity_type_
+male	en.gender.male	_entity_
+google	en.company.google	_entity_
+birthdate	birthdate	_relation_date_
+female	en.gender.female	_entity_
+single	en.relationship_status.single	_entity_
+bob	en.person.bob	_entity_
+university	university	_relation_
+computer science	en.field.computer_science	_entity_
+new york	en.city.new_york	_entity_
+history	en.field.history	_entity_
+end date	education_end_date	_relation_date_
+student	student	_relation_subj_
+start date	employment_start_date	_relation_date_
+mckinsey	en.company.mckinsey	_entity_
+relationship status	relationship_status	_relation_
+program manager	en.job_title.program_manager	_entity_
+married	en.relationship_status.married	_entity_
+field	en.field	_entity_type_
+relationship status	en.relationship_status	_entity_type_
+alice	en.person.alice	_entity_
+software engineer	en.job_title.software_engineer	_entity_
+employee	employee	_relation_subj_
+beijing	en.city.bejing	_entity_
+cm	en.cm	_entity_num_
+ucla	en.university.ucla	_entity_
+employer	employer	_relation_
+birthplace	birthplace	_relation_
+brown university	en.university.brown	_entity_
+gender	en.gender	_entity_type_
+person	en.person	_entity_type_
+height	height	_relation_num_
+start date	education_start_date	_relation_date_
+city	en.city	_entity_type_
+job title	job_title	_relation_
+company	en.company	_entity_type_
+field of study	field_of_study	_relation_
+is logged in	logged_in	_relation_unary_

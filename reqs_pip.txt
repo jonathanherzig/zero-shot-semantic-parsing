@@ -1,0 +1,8 @@
+tensorflow-gpu==1.2.1
+dill==0.2.7.1
+editdistance==0.4
+pyenchant==2.0.0
+stanfordcorenlp==3.7.0.2
+pyparsing==2.2.0
+numpy==1.13.3
+scipy==1.0.0

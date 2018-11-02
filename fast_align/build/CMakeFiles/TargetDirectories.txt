@@ -1,0 +1,4 @@
+/Users/hjon/d/git_projects/fast_align/build/CMakeFiles/rebuild_cache.dir
+/Users/hjon/d/git_projects/fast_align/build/CMakeFiles/edit_cache.dir
+/Users/hjon/d/git_projects/fast_align/build/CMakeFiles/atools.dir
+/Users/hjon/d/git_projects/fast_align/build/CMakeFiles/fast_align.dir

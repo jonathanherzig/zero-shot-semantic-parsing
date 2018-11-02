@@ -1,0 +1,22 @@
+is special	is_special	_relation_unary_
+width	width	_relation_num_
+a pyramid	en.shape.pyramid	_entity_
+block one	en.block.block1	_entity_
+color	color	_relation_
+is below	below	_relation_
+is right of	right	_relation_
+is above	above	_relation_
+a cube	en.shape.cube	_entity_
+inches	en.inch	_entity_num_
+green	en.color.green	_entity_
+is left of	left	_relation_
+brick	en.block	_entity_type_
+length	length	_relation_num_
+shape	shape	_relation_
+block	en.block	_entity_type_
+red	en.color.red	_entity_
+brick 1	en.block.block1	_entity_
+height	height	_relation_num_
+block 2	en.block.block2	_entity_
+block 1	en.block.block1	_entity_
+brick 2	en.block.block2	_entity_

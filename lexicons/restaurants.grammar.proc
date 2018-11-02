@@ -1,0 +1,29 @@
+neighborhood	neighborhood	_relation_
+thai cafe	en.restaurant.thai_cafe	_entity_
+is good for groups	groups	_relation_unary_
+has delivery	delivery	_relation_unary_
+restaurant	en.restaurant	_entity_type_
+has take-out	takeout	_relation_unary_
+is good for kids	kids	_relation_unary_
+cuisine	en.cuisine	_entity_type_
+dinner	en.food.dinner	_entity_
+chelsea	en.neighborhood.chelsea	_entity_
+number of reviews	reviews	_relation_num_
+price rating	price_rating	_relation_num_
+stars	en.star	_entity_num_
+takes reservations	reserve	_relation_unary_
+neighborhood	en.neighborhood	_entity_type_
+pizzeria juno	en.restaurant.pizzeria_juno	_entity_
+has waiter service	waiter	_relation_unary_
+serves	meals	_relation_
+midtown west	en.neighborhood.midtown_west	_entity_
+cuisine	cuisine	_relation_
+takes credit cards	credit	_relation_unary_
+thai	en.cuisine.thai	_entity_
+reviews	en.review	_entity_num_
+italian	en.cuisine.italian	_entity_
+lunch	en.food.lunch	_entity_
+has outdoor seating	outdoor	_relation_unary_
+star rating	star_rating	_relation_num_
+meal	en.food	_entity_type_
+dollar signs	en.dollar_sign	_entity_num_

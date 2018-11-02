@@ -1,0 +1,16 @@
+recipe	en.recipe	_entity_type_
+is for	meal	_relation_
+rice pudding	en.recipe.rice_pudding	_entity_
+meal	en.meal	_entity_type_
+posting date	posting_date	_relation_date_
+requires	requires	_relation_
+cooking time	cooking_time	_relation_num_
+spinach	en.ingredient.spinach	_entity_
+ingredient	en.ingredient	_entity_type_
+milk	en.ingredient.milk	_entity_
+lunch	en.meal.lunch	_entity_
+cuisine	cuisine	_relation_
+dinner	en.meal.dinner	_entity_
+preparation time	preparation_time	_relation_num_
+quiche	en.recipe.quiche	_entity_
+cuisine	fb:en.cuisine	_entity_type_

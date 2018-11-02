@@ -1,0 +1,688 @@
+{"lexeme": "mount davidson", "formula": "fb:en.place.mount_davidson", "type": "fb:en.place"}
+{"lexeme": "birmingham", "formula": "fb:en.city.birmingham_al", "type": "fb:en.city"}
+{"lexeme": "anchorage", "formula": "fb:en.city.anchorage_ak", "type": "fb:en.city"}
+{"lexeme": "phoenix", "formula": "fb:en.city.phoenix_az", "type": "fb:en.city"}
+{"lexeme": "little rock", "formula": "fb:en.city.little_rock_ar", "type": "fb:en.city"}
+{"lexeme": "los angeles", "formula": "fb:en.city.los_angeles_ca", "type": "fb:en.city"}
+{"lexeme": "denver", "formula": "fb:en.city.denver_co", "type": "fb:en.city"}
+{"lexeme": "bridgeport", "formula": "fb:en.city.bridgeport_ct", "type": "fb:en.city"}
+{"lexeme": "wilmington", "formula": "fb:en.city.wilmington_de", "type": "fb:en.city"}
+{"lexeme": "tenleytown", "formula": "fb:en.city.tenleytown_dc", "type": "fb:en.city"}
+{"lexeme": "jacksonville", "formula": "fb:en.city.jacksonville_fl", "type": "fb:en.city"}
+{"lexeme": "atlanta", "formula": "fb:en.city.atlanta_ga", "type": "fb:en.city"}
+{"lexeme": "honolulu", "formula": "fb:en.city.honolulu_hi", "type": "fb:en.city"}
+{"lexeme": "boise", "formula": "fb:en.city.boise_id", "type": "fb:en.city"}
+{"lexeme": "chicago", "formula": "fb:en.city.chicago_il", "type": "fb:en.city"}
+{"lexeme": "indianapolis", "formula": "fb:en.city.indianapolis_in", "type": "fb:en.city"}
+{"lexeme": "des moines", "formula": "fb:en.city.des_moines_ia", "type": "fb:en.city"}
+{"lexeme": "wichita", "formula": "fb:en.city.wichita_ks", "type": "fb:en.city"}
+{"lexeme": "louisville", "formula": "fb:en.city.louisville_ky", "type": "fb:en.city"}
+{"lexeme": "new orleans", "formula": "fb:en.city.new_orleans_la", "type": "fb:en.city"}
+{"lexeme": "portland", "formula": "fb:en.city.portland_me", "type": "fb:en.city"}
+{"lexeme": "baltimore", "formula": "fb:en.city.baltimore_md", "type": "fb:en.city"}
+{"lexeme": "boston", "formula": "fb:en.city.boston_ma", "type": "fb:en.city"}
+{"lexeme": "detroit", "formula": "fb:en.city.detroit_mi", "type": "fb:en.city"}
+{"lexeme": "minneapolis", "formula": "fb:en.city.minneapolis_mn", "type": "fb:en.city"}
+{"lexeme": "jackson", "formula": "fb:en.city.jackson_ms", "type": "fb:en.city"}
+{"lexeme": "louis", "formula": "fb:en.city.st._louis_mo", "type": "fb:en.city"}
+{"lexeme": "billings", "formula": "fb:en.city.billings_mt", "type": "fb:en.city"}
+{"lexeme": "omaha", "formula": "fb:en.city.omaha_ne", "type": "fb:en.city"}
+{"lexeme": "las vegas", "formula": "fb:en.city.las_vegas_nv", "type": "fb:en.city"}
+{"lexeme": "manchester", "formula": "fb:en.city.manchester_nh", "type": "fb:en.city"}
+{"lexeme": "newark", "formula": "fb:en.city.newark_nj", "type": "fb:en.city"}
+{"lexeme": "albuquerque", "formula": "fb:en.city.albuquerque_nm", "type": "fb:en.city"}
+{"lexeme": "new york", "formula": "fb:en.city.new_york_ny", "type": "fb:en.city"}
+{"lexeme": "charlotte", "formula": "fb:en.city.charlotte_nc", "type": "fb:en.city"}
+{"lexeme": "fargo", "formula": "fb:en.city.fargo_nd", "type": "fb:en.city"}
+{"lexeme": "cleveland", "formula": "fb:en.city.cleveland_oh", "type": "fb:en.city"}
+{"lexeme": "oklahoma city", "formula": "fb:en.city.oklahoma_city_ok", "type": "fb:en.city"}
+{"lexeme": "portland", "formula": "fb:en.city.portland_or", "type": "fb:en.city"}
+{"lexeme": "philadelphia", "formula": "fb:en.city.philadelphia_pa", "type": "fb:en.city"}
+{"lexeme": "providence", "formula": "fb:en.city.providence_ri", "type": "fb:en.city"}
+{"lexeme": "columbia", "formula": "fb:en.city.columbia_sc", "type": "fb:en.city"}
+{"lexeme": "sioux falls", "formula": "fb:en.city.sioux_falls_sd", "type": "fb:en.city"}
+{"lexeme": "memphis", "formula": "fb:en.city.memphis_tn", "type": "fb:en.city"}
+{"lexeme": "houston", "formula": "fb:en.city.houston_tx", "type": "fb:en.city"}
+{"lexeme": "salt lake city", "formula": "fb:en.city.salt_lake_city_ut", "type": "fb:en.city"}
+{"lexeme": "burlington", "formula": "fb:en.city.burlington_vt", "type": "fb:en.city"}
+{"lexeme": "norfolk", "formula": "fb:en.city.norfolk_va", "type": "fb:en.city"}
+{"lexeme": "seattle", "formula": "fb:en.city.seattle_wa", "type": "fb:en.city"}
+{"lexeme": "charleston", "formula": "fb:en.city.charleston_wv", "type": "fb:en.city"}
+{"lexeme": "milwaukee", "formula": "fb:en.city.milwaukee_wi", "type": "fb:en.city"}
+{"lexeme": "casper", "formula": "fb:en.city.casper_wy", "type": "fb:en.city"}
+{"lexeme": "mobile", "formula": "fb:en.city.mobile_al", "type": "fb:en.city"}
+{"lexeme": "fairbanks", "formula": "fb:en.city.fairbanks_ak", "type": "fb:en.city"}
+{"lexeme": "tucson", "formula": "fb:en.city.tucson_az", "type": "fb:en.city"}
+{"lexeme": "fort smith", "formula": "fb:en.city.fort_smith_ar", "type": "fb:en.city"}
+{"lexeme": "san diego", "formula": "fb:en.city.san_diego_ca", "type": "fb:en.city"}
+{"lexeme": "colorado springs", "formula": "fb:en.city.colorado_springs_co", "type": "fb:en.city"}
+{"lexeme": "hartford", "formula": "fb:en.city.hartford_ct", "type": "fb:en.city"}
+{"lexeme": "newark", "formula": "fb:en.city.newark_de", "type": "fb:en.city"}
+{"lexeme": "washington", "formula": "fb:en.city.washington_dc", "type": "fb:en.city"}
+{"lexeme": "miami", "formula": "fb:en.city.miami_fl", "type": "fb:en.city"}
+{"lexeme": "columbus", "formula": "fb:en.city.columbus_ga", "type": "fb:en.city"}
+{"lexeme": "ewa", "formula": "fb:en.city.ewa_hi", "type": "fb:en.city"}
+{"lexeme": "pocatello", "formula": "fb:en.city.pocatello_id", "type": "fb:en.city"}
+{"lexeme": "rockford", "formula": "fb:en.city.rockford_il", "type": "fb:en.city"}
+{"lexeme": "fort wayne", "formula": "fb:en.city.fort_wayne_in", "type": "fb:en.city"}
+{"lexeme": "cedar rapids", "formula": "fb:en.city.cedar_rapids_ia", "type": "fb:en.city"}
+{"lexeme": "kansas city", "formula": "fb:en.city.kansas_city_ks", "type": "fb:en.city"}
+{"lexeme": "lexington", "formula": "fb:en.city.lexington_ky", "type": "fb:en.city"}
+{"lexeme": "baton rouge", "formula": "fb:en.city.baton_rouge_la", "type": "fb:en.city"}
+{"lexeme": "lewiston", "formula": "fb:en.city.lewiston_me", "type": "fb:en.city"}
+{"lexeme": "silver spring", "formula": "fb:en.city.silver_spring_md", "type": "fb:en.city"}
+{"lexeme": "worcester", "formula": "fb:en.city.worcester_ma", "type": "fb:en.city"}
+{"lexeme": "grand rapids", "formula": "fb:en.city.grand_rapids_mi", "type": "fb:en.city"}
+{"lexeme": "paul", "formula": "fb:en.city.st._paul_mn", "type": "fb:en.city"}
+{"lexeme": "biloxi", "formula": "fb:en.city.biloxi_ms", "type": "fb:en.city"}
+{"lexeme": "kansas city", "formula": "fb:en.city.kansas_city_mo", "type": "fb:en.city"}
+{"lexeme": "great falls", "formula": "fb:en.city.great_falls_mt", "type": "fb:en.city"}
+{"lexeme": "lincoln", "formula": "fb:en.city.lincoln_ne", "type": "fb:en.city"}
+{"lexeme": "reno", "formula": "fb:en.city.reno_nv", "type": "fb:en.city"}
+{"lexeme": "nashua", "formula": "fb:en.city.nashua_nh", "type": "fb:en.city"}
+{"lexeme": "jersey city", "formula": "fb:en.city.jersey_city_nj", "type": "fb:en.city"}
+{"lexeme": "santa fe", "formula": "fb:en.city.santa_fe_nm", "type": "fb:en.city"}
+{"lexeme": "buffalo", "formula": "fb:en.city.buffalo_ny", "type": "fb:en.city"}
+{"lexeme": "greensboro", "formula": "fb:en.city.greensboro_nc", "type": "fb:en.city"}
+{"lexeme": "bismarck", "formula": "fb:en.city.bismarck_nd", "type": "fb:en.city"}
+{"lexeme": "columbus", "formula": "fb:en.city.columbus_oh", "type": "fb:en.city"}
+{"lexeme": "tulsa", "formula": "fb:en.city.tulsa_ok", "type": "fb:en.city"}
+{"lexeme": "eugene", "formula": "fb:en.city.eugene_or", "type": "fb:en.city"}
+{"lexeme": "pittsburgh", "formula": "fb:en.city.pittsburgh_pa", "type": "fb:en.city"}
+{"lexeme": "warwick", "formula": "fb:en.city.warwick_ri", "type": "fb:en.city"}
+{"lexeme": "charleston", "formula": "fb:en.city.charleston_sc", "type": "fb:en.city"}
+{"lexeme": "rapid city", "formula": "fb:en.city.rapid_city_sd", "type": "fb:en.city"}
+{"lexeme": "nashville", "formula": "fb:en.city.nashville_tn", "type": "fb:en.city"}
+{"lexeme": "dallas", "formula": "fb:en.city.dallas_tx", "type": "fb:en.city"}
+{"lexeme": "provo", "formula": "fb:en.city.provo_ut", "type": "fb:en.city"}
+{"lexeme": "rutland", "formula": "fb:en.city.rutland_vt", "type": "fb:en.city"}
+{"lexeme": "virginia beach", "formula": "fb:en.city.virginia_beach_va", "type": "fb:en.city"}
+{"lexeme": "spokane", "formula": "fb:en.city.spokane_wa", "type": "fb:en.city"}
+{"lexeme": "huntington", "formula": "fb:en.city.huntington_wv", "type": "fb:en.city"}
+{"lexeme": "madison", "formula": "fb:en.city.madison_wi", "type": "fb:en.city"}
+{"lexeme": "cheyenne", "formula": "fb:en.city.cheyenne_wy", "type": "fb:en.city"}
+{"lexeme": "montgomery", "formula": "fb:en.city.montgomery_al", "type": "fb:en.city"}
+{"lexeme": "juneau", "formula": "fb:en.city.juneau_ak", "type": "fb:en.city"}
+{"lexeme": "mesa", "formula": "fb:en.city.mesa_az", "type": "fb:en.city"}
+{"lexeme": "north little rock", "formula": "fb:en.city.north_little_rock_ar", "type": "fb:en.city"}
+{"lexeme": "san francisco", "formula": "fb:en.city.san_francisco_ca", "type": "fb:en.city"}
+{"lexeme": "aurora", "formula": "fb:en.city.aurora_co", "type": "fb:en.city"}
+{"lexeme": "new haven", "formula": "fb:en.city.new_haven_ct", "type": "fb:en.city"}
+{"lexeme": "dover", "formula": "fb:en.city.dover_de", "type": "fb:en.city"}
+{"lexeme": "georgetown", "formula": "fb:en.city.georgetown_dc", "type": "fb:en.city"}
+{"lexeme": "tampa", "formula": "fb:en.city.tampa_fl", "type": "fb:en.city"}
+{"lexeme": "savannah", "formula": "fb:en.city.savannah_ga", "type": "fb:en.city"}
+{"lexeme": "koolaupoko", "formula": "fb:en.city.koolaupoko_hi", "type": "fb:en.city"}
+{"lexeme": "idaho falls", "formula": "fb:en.city.idaho_falls_id", "type": "fb:en.city"}
+{"lexeme": "peoria", "formula": "fb:en.city.peoria_il", "type": "fb:en.city"}
+{"lexeme": "gary", "formula": "fb:en.city.gary_in", "type": "fb:en.city"}
+{"lexeme": "davenport", "formula": "fb:en.city.davenport_ia", "type": "fb:en.city"}
+{"lexeme": "topeka", "formula": "fb:en.city.topeka_ks", "type": "fb:en.city"}
+{"lexeme": "owensboro", "formula": "fb:en.city.owensboro_ky", "type": "fb:en.city"}
+{"lexeme": "shreveport", "formula": "fb:en.city.shreveport_la", "type": "fb:en.city"}
+{"lexeme": "bangor", "formula": "fb:en.city.bangor_me", "type": "fb:en.city"}
+{"lexeme": "dundalk", "formula": "fb:en.city.dundalk_md", "type": "fb:en.city"}
+{"lexeme": "springfield", "formula": "fb:en.city.springfield_ma", "type": "fb:en.city"}
+{"lexeme": "warren", "formula": "fb:en.city.warren_mi", "type": "fb:en.city"}
+{"lexeme": "duluth", "formula": "fb:en.city.duluth_mn", "type": "fb:en.city"}
+{"lexeme": "meridian", "formula": "fb:en.city.meridian_ms", "type": "fb:en.city"}
+{"lexeme": "springfield", "formula": "fb:en.city.springfield_mo", "type": "fb:en.city"}
+{"lexeme": "butte", "formula": "fb:en.city.butte_mt", "type": "fb:en.city"}
+{"lexeme": "grand island", "formula": "fb:en.city.grand_island_ne", "type": "fb:en.city"}
+{"lexeme": "sunrise manor", "formula": "fb:en.city.sunrise_manor_nv", "type": "fb:en.city"}
+{"lexeme": "concord", "formula": "fb:en.city.concord_nh", "type": "fb:en.city"}
+{"lexeme": "paterson", "formula": "fb:en.city.paterson_nj", "type": "fb:en.city"}
+{"lexeme": "las cruces", "formula": "fb:en.city.las_cruces_nm", "type": "fb:en.city"}
+{"lexeme": "rochester", "formula": "fb:en.city.rochester_ny", "type": "fb:en.city"}
+{"lexeme": "raleigh", "formula": "fb:en.city.raleigh_nc", "type": "fb:en.city"}
+{"lexeme": "grand forks", "formula": "fb:en.city.grand_forks_nd", "type": "fb:en.city"}
+{"lexeme": "cincinnati", "formula": "fb:en.city.cincinnati_oh", "type": "fb:en.city"}
+{"lexeme": "lawton", "formula": "fb:en.city.lawton_ok", "type": "fb:en.city"}
+{"lexeme": "salem", "formula": "fb:en.city.salem_or", "type": "fb:en.city"}
+{"lexeme": "erie", "formula": "fb:en.city.erie_pa", "type": "fb:en.city"}
+{"lexeme": "cranston", "formula": "fb:en.city.cranston_ri", "type": "fb:en.city"}
+{"lexeme": "north charleston", "formula": "fb:en.city.north_charleston_sc", "type": "fb:en.city"}
+{"lexeme": "aberdeen", "formula": "fb:en.city.aberdeen_sd", "type": "fb:en.city"}
+{"lexeme": "knoxville", "formula": "fb:en.city.knoxville_tn", "type": "fb:en.city"}
+{"lexeme": "san antonio", "formula": "fb:en.city.san_antonio_tx", "type": "fb:en.city"}
+{"lexeme": "west valley", "formula": "fb:en.city.west_valley_ut", "type": "fb:en.city"}
+{"lexeme": "bennington", "formula": "fb:en.city.bennington_vt", "type": "fb:en.city"}
+{"lexeme": "richmond", "formula": "fb:en.city.richmond_va", "type": "fb:en.city"}
+{"lexeme": "tacoma", "formula": "fb:en.city.tacoma_wa", "type": "fb:en.city"}
+{"lexeme": "wheeling", "formula": "fb:en.city.wheeling_wv", "type": "fb:en.city"}
+{"lexeme": "green bay", "formula": "fb:en.city.green_bay_wi", "type": "fb:en.city"}
+{"lexeme": "laramie", "formula": "fb:en.city.laramie_wy", "type": "fb:en.city"}
+{"lexeme": "huntsville", "formula": "fb:en.city.huntsville_al", "type": "fb:en.city"}
+{"lexeme": "sitka", "formula": "fb:en.city.sitka_ak", "type": "fb:en.city"}
+{"lexeme": "tempe", "formula": "fb:en.city.tempe_az", "type": "fb:en.city"}
+{"lexeme": "pine bluff", "formula": "fb:en.city.pine_bluff_ar", "type": "fb:en.city"}
+{"lexeme": "san jose", "formula": "fb:en.city.san_jose_ca", "type": "fb:en.city"}
+{"lexeme": "lakewood", "formula": "fb:en.city.lakewood_co", "type": "fb:en.city"}
+{"lexeme": "waterbury", "formula": "fb:en.city.waterbury_ct", "type": "fb:en.city"}
+{"lexeme": "brookside", "formula": "fb:en.city.brookside_de", "type": "fb:en.city"}
+{"lexeme": "duval circle", "formula": "fb:en.city.duval_circle_dc", "type": "fb:en.city"}
+{"lexeme": "petersburg", "formula": "fb:en.city.st._petersburg_fl", "type": "fb:en.city"}
+{"lexeme": "macon", "formula": "fb:en.city.macon_ga", "type": "fb:en.city"}
+{"lexeme": "wahiawa", "formula": "fb:en.city.wahiawa_hi", "type": "fb:en.city"}
+{"lexeme": "lewiston", "formula": "fb:en.city.lewiston_id", "type": "fb:en.city"}
+{"lexeme": "springfield", "formula": "fb:en.city.springfield_il", "type": "fb:en.city"}
+{"lexeme": "evansville", "formula": "fb:en.city.evansville_in", "type": "fb:en.city"}
+{"lexeme": "sioux city", "formula": "fb:en.city.sioux_city_ia", "type": "fb:en.city"}
+{"lexeme": "overland park", "formula": "fb:en.city.overland_park_ks", "type": "fb:en.city"}
+{"lexeme": "covington", "formula": "fb:en.city.covington_ky", "type": "fb:en.city"}
+{"lexeme": "metairie", "formula": "fb:en.city.metairie_la", "type": "fb:en.city"}
+{"lexeme": "auburn", "formula": "fb:en.city.auburn_me", "type": "fb:en.city"}
+{"lexeme": "bethesda", "formula": "fb:en.city.bethesda_md", "type": "fb:en.city"}
+{"lexeme": "new bedford", "formula": "fb:en.city.new_bedford_ma", "type": "fb:en.city"}
+{"lexeme": "flint", "formula": "fb:en.city.flint_mi", "type": "fb:en.city"}
+{"lexeme": "bloomington", "formula": "fb:en.city.bloomington_mn", "type": "fb:en.city"}
+{"lexeme": "hattiesburg", "formula": "fb:en.city.hattiesburg_ms", "type": "fb:en.city"}
+{"lexeme": "independence", "formula": "fb:en.city.independence_mo", "type": "fb:en.city"}
+{"lexeme": "missoula", "formula": "fb:en.city.missoula_mt", "type": "fb:en.city"}
+{"lexeme": "north platte", "formula": "fb:en.city.north_platte_ne", "type": "fb:en.city"}
+{"lexeme": "sparks", "formula": "fb:en.city.sparks_nv", "type": "fb:en.city"}
+{"lexeme": "portsmouth", "formula": "fb:en.city.portsmouth_nh", "type": "fb:en.city"}
+{"lexeme": "elizabeth", "formula": "fb:en.city.elizabeth_nj", "type": "fb:en.city"}
+{"lexeme": "roswell", "formula": "fb:en.city.roswell_nm", "type": "fb:en.city"}
+{"lexeme": "yonkers", "formula": "fb:en.city.yonkers_ny", "type": "fb:en.city"}
+{"lexeme": "winston-salem", "formula": "fb:en.city.winston-salem_nc", "type": "fb:en.city"}
+{"lexeme": "minot", "formula": "fb:en.city.minot_nd", "type": "fb:en.city"}
+{"lexeme": "toledo", "formula": "fb:en.city.toledo_oh", "type": "fb:en.city"}
+{"lexeme": "norman", "formula": "fb:en.city.norman_ok", "type": "fb:en.city"}
+{"lexeme": "springfield", "formula": "fb:en.city.springfield_or", "type": "fb:en.city"}
+{"lexeme": "allentown", "formula": "fb:en.city.allentown_pa", "type": "fb:en.city"}
+{"lexeme": "pawtucket", "formula": "fb:en.city.pawtucket_ri", "type": "fb:en.city"}
+{"lexeme": "greenville", "formula": "fb:en.city.greenville_sc", "type": "fb:en.city"}
+{"lexeme": "watertown", "formula": "fb:en.city.watertown_sd", "type": "fb:en.city"}
+{"lexeme": "chattanooga", "formula": "fb:en.city.chattanooga_tn", "type": "fb:en.city"}
+{"lexeme": "el paso", "formula": "fb:en.city.el_paso_tx", "type": "fb:en.city"}
+{"lexeme": "ogden", "formula": "fb:en.city.ogden_ut", "type": "fb:en.city"}
+{"lexeme": "essex", "formula": "fb:en.city.essex_vt", "type": "fb:en.city"}
+{"lexeme": "arlington", "formula": "fb:en.city.arlington_va", "type": "fb:en.city"}
+{"lexeme": "bellevue", "formula": "fb:en.city.bellevue_wa", "type": "fb:en.city"}
+{"lexeme": "parkersburg", "formula": "fb:en.city.parkersburg_wv", "type": "fb:en.city"}
+{"lexeme": "racine", "formula": "fb:en.city.racine_wi", "type": "fb:en.city"}
+{"lexeme": "rock springs", "formula": "fb:en.city.rock_springs_wy", "type": "fb:en.city"}
+{"lexeme": "tuscaloosa", "formula": "fb:en.city.tuscaloosa_al", "type": "fb:en.city"}
+{"lexeme": "glendale", "formula": "fb:en.city.glendale_az", "type": "fb:en.city"}
+{"lexeme": "scottsdale", "formula": "fb:en.city.scottsdale_az", "type": "fb:en.city"}
+{"lexeme": "long beach", "formula": "fb:en.city.long_beach_ca", "type": "fb:en.city"}
+{"lexeme": "oakland", "formula": "fb:en.city.oakland_ca", "type": "fb:en.city"}
+{"lexeme": "sacramento", "formula": "fb:en.city.sacramento_ca", "type": "fb:en.city"}
+{"lexeme": "anaheim", "formula": "fb:en.city.anaheim_ca", "type": "fb:en.city"}
+{"lexeme": "fresno", "formula": "fb:en.city.fresno_ca", "type": "fb:en.city"}
+{"lexeme": "santa ana", "formula": "fb:en.city.santa_ana_ca", "type": "fb:en.city"}
+{"lexeme": "riverside", "formula": "fb:en.city.riverside_ca", "type": "fb:en.city"}
+{"lexeme": "huntington beach", "formula": "fb:en.city.huntington_beach_ca", "type": "fb:en.city"}
+{"lexeme": "stockton", "formula": "fb:en.city.stockton_ca", "type": "fb:en.city"}
+{"lexeme": "glendale", "formula": "fb:en.city.glendale_ca", "type": "fb:en.city"}
+{"lexeme": "fremont", "formula": "fb:en.city.fremont_ca", "type": "fb:en.city"}
+{"lexeme": "torrance", "formula": "fb:en.city.torrance_ca", "type": "fb:en.city"}
+{"lexeme": "garden grove", "formula": "fb:en.city.garden_grove_ca", "type": "fb:en.city"}
+{"lexeme": "san bernardino", "formula": "fb:en.city.san_bernardino_ca", "type": "fb:en.city"}
+{"lexeme": "pasadena", "formula": "fb:en.city.pasadena_ca", "type": "fb:en.city"}
+{"lexeme": "east los angeles", "formula": "fb:en.city.east_los_angeles_ca", "type": "fb:en.city"}
+{"lexeme": "oxnard", "formula": "fb:en.city.oxnard_ca", "type": "fb:en.city"}
+{"lexeme": "modesto", "formula": "fb:en.city.modesto_ca", "type": "fb:en.city"}
+{"lexeme": "sunnyvale", "formula": "fb:en.city.sunnyvale_ca", "type": "fb:en.city"}
+{"lexeme": "bakersfield", "formula": "fb:en.city.bakersfield_ca", "type": "fb:en.city"}
+{"lexeme": "concord", "formula": "fb:en.city.concord_ca", "type": "fb:en.city"}
+{"lexeme": "berkeley", "formula": "fb:en.city.berkeley_ca", "type": "fb:en.city"}
+{"lexeme": "fullerton", "formula": "fb:en.city.fullerton_ca", "type": "fb:en.city"}
+{"lexeme": "inglewood", "formula": "fb:en.city.inglewood_ca", "type": "fb:en.city"}
+{"lexeme": "hayward", "formula": "fb:en.city.hayward_ca", "type": "fb:en.city"}
+{"lexeme": "pomona", "formula": "fb:en.city.pomona_ca", "type": "fb:en.city"}
+{"lexeme": "orange", "formula": "fb:en.city.orange_ca", "type": "fb:en.city"}
+{"lexeme": "ontario", "formula": "fb:en.city.ontario_ca", "type": "fb:en.city"}
+{"lexeme": "santa monica", "formula": "fb:en.city.santa_monica_ca", "type": "fb:en.city"}
+{"lexeme": "santa clara", "formula": "fb:en.city.santa_clara_ca", "type": "fb:en.city"}
+{"lexeme": "citrus heights", "formula": "fb:en.city.citrus_heights_ca", "type": "fb:en.city"}
+{"lexeme": "norwalk", "formula": "fb:en.city.norwalk_ca", "type": "fb:en.city"}
+{"lexeme": "burbank", "formula": "fb:en.city.burbank_ca", "type": "fb:en.city"}
+{"lexeme": "chula vista", "formula": "fb:en.city.chula_vista_ca", "type": "fb:en.city"}
+{"lexeme": "santa rosa", "formula": "fb:en.city.santa_rosa_ca", "type": "fb:en.city"}
+{"lexeme": "downey", "formula": "fb:en.city.downey_ca", "type": "fb:en.city"}
+{"lexeme": "costa mesa", "formula": "fb:en.city.costa_mesa_ca", "type": "fb:en.city"}
+{"lexeme": "compton", "formula": "fb:en.city.compton_ca", "type": "fb:en.city"}
+{"lexeme": "carson", "formula": "fb:en.city.carson_ca", "type": "fb:en.city"}
+{"lexeme": "salinas", "formula": "fb:en.city.salinas_ca", "type": "fb:en.city"}
+{"lexeme": "west covina", "formula": "fb:en.city.west_covina_ca", "type": "fb:en.city"}
+{"lexeme": "vallejo", "formula": "fb:en.city.vallejo_ca", "type": "fb:en.city"}
+{"lexeme": "el monte", "formula": "fb:en.city.el_monte_ca", "type": "fb:en.city"}
+{"lexeme": "daly city", "formula": "fb:en.city.daly_city_ca", "type": "fb:en.city"}
+{"lexeme": "thousand oaks", "formula": "fb:en.city.thousand_oaks_ca", "type": "fb:en.city"}
+{"lexeme": "san mateo", "formula": "fb:en.city.san_mateo_ca", "type": "fb:en.city"}
+{"lexeme": "simi valley", "formula": "fb:en.city.simi_valley_ca", "type": "fb:en.city"}
+{"lexeme": "oceanside", "formula": "fb:en.city.oceanside_ca", "type": "fb:en.city"}
+{"lexeme": "richmond", "formula": "fb:en.city.richmond_ca", "type": "fb:en.city"}
+{"lexeme": "lakewood", "formula": "fb:en.city.lakewood_ca", "type": "fb:en.city"}
+{"lexeme": "santa barbara", "formula": "fb:en.city.santa_barbara_ca", "type": "fb:en.city"}
+{"lexeme": "el cajon", "formula": "fb:en.city.el_cajon_ca", "type": "fb:en.city"}
+{"lexeme": "ventura", "formula": "fb:en.city.ventura_ca", "type": "fb:en.city"}
+{"lexeme": "westminster", "formula": "fb:en.city.westminster_ca", "type": "fb:en.city"}
+{"lexeme": "whittier", "formula": "fb:en.city.whittier_ca", "type": "fb:en.city"}
+{"lexeme": "south gate", "formula": "fb:en.city.south_gate_ca", "type": "fb:en.city"}
+{"lexeme": "alhambra", "formula": "fb:en.city.alhambra_ca", "type": "fb:en.city"}
+{"lexeme": "buena park", "formula": "fb:en.city.buena_park_ca", "type": "fb:en.city"}
+{"lexeme": "san leandro", "formula": "fb:en.city.san_leandro_ca", "type": "fb:en.city"}
+{"lexeme": "alameda", "formula": "fb:en.city.alameda_ca", "type": "fb:en.city"}
+{"lexeme": "newport beach", "formula": "fb:en.city.newport_beach_ca", "type": "fb:en.city"}
+{"lexeme": "escondido", "formula": "fb:en.city.escondido_ca", "type": "fb:en.city"}
+{"lexeme": "irvine", "formula": "fb:en.city.irvine_ca", "type": "fb:en.city"}
+{"lexeme": "mountain view", "formula": "fb:en.city.mountain_view_ca", "type": "fb:en.city"}
+{"lexeme": "fairfield", "formula": "fb:en.city.fairfield_ca", "type": "fb:en.city"}
+{"lexeme": "redondo beach", "formula": "fb:en.city.redondo_beach_ca", "type": "fb:en.city"}
+{"lexeme": "scotts valley", "formula": "fb:en.city.scotts_valley_ca", "type": "fb:en.city"}
+{"lexeme": "pueblo", "formula": "fb:en.city.pueblo_co", "type": "fb:en.city"}
+{"lexeme": "arvada", "formula": "fb:en.city.arvada_co", "type": "fb:en.city"}
+{"lexeme": "boulder", "formula": "fb:en.city.boulder_co", "type": "fb:en.city"}
+{"lexeme": "fort collins", "formula": "fb:en.city.fort_collins_co", "type": "fb:en.city"}
+{"lexeme": "stamford", "formula": "fb:en.city.stamford_ct", "type": "fb:en.city"}
+{"lexeme": "norwalk", "formula": "fb:en.city.norwalk_ct", "type": "fb:en.city"}
+{"lexeme": "new britain", "formula": "fb:en.city.new_britain_ct", "type": "fb:en.city"}
+{"lexeme": "west hartford", "formula": "fb:en.city.west_hartford_ct", "type": "fb:en.city"}
+{"lexeme": "danbury", "formula": "fb:en.city.danbury_ct", "type": "fb:en.city"}
+{"lexeme": "greenwich", "formula": "fb:en.city.greenwich_ct", "type": "fb:en.city"}
+{"lexeme": "bristol", "formula": "fb:en.city.bristol_ct", "type": "fb:en.city"}
+{"lexeme": "meriden", "formula": "fb:en.city.meriden_ct", "type": "fb:en.city"}
+{"lexeme": "fort lauderdale", "formula": "fb:en.city.fort_lauderdale_fl", "type": "fb:en.city"}
+{"lexeme": "orlando", "formula": "fb:en.city.orlando_fl", "type": "fb:en.city"}
+{"lexeme": "hollywood", "formula": "fb:en.city.hollywood_fl", "type": "fb:en.city"}
+{"lexeme": "miami beach", "formula": "fb:en.city.miami_beach_fl", "type": "fb:en.city"}
+{"lexeme": "clearwater", "formula": "fb:en.city.clearwater_fl", "type": "fb:en.city"}
+{"lexeme": "tallahassee", "formula": "fb:en.city.tallahassee_fl", "type": "fb:en.city"}
+{"lexeme": "gainesville", "formula": "fb:en.city.gainesville_fl", "type": "fb:en.city"}
+{"lexeme": "kendall", "formula": "fb:en.city.kendall_fl", "type": "fb:en.city"}
+{"lexeme": "west palm beach", "formula": "fb:en.city.west_palm_beach_fl", "type": "fb:en.city"}
+{"lexeme": "largo", "formula": "fb:en.city.largo_fl", "type": "fb:en.city"}
+{"lexeme": "pensacola", "formula": "fb:en.city.pensacola_fl", "type": "fb:en.city"}
+{"lexeme": "albany", "formula": "fb:en.city.albany_ga", "type": "fb:en.city"}
+{"lexeme": "decatur", "formula": "fb:en.city.decatur_il", "type": "fb:en.city"}
+{"lexeme": "aurora", "formula": "fb:en.city.aurora_il", "type": "fb:en.city"}
+{"lexeme": "joliet", "formula": "fb:en.city.joliet_il", "type": "fb:en.city"}
+{"lexeme": "evanston", "formula": "fb:en.city.evanston_il", "type": "fb:en.city"}
+{"lexeme": "waukegan", "formula": "fb:en.city.waukegan_il", "type": "fb:en.city"}
+{"lexeme": "arlington heights", "formula": "fb:en.city.arlington_heights_il", "type": "fb:en.city"}
+{"lexeme": "elgin", "formula": "fb:en.city.elgin_il", "type": "fb:en.city"}
+{"lexeme": "cicero", "formula": "fb:en.city.cicero_il", "type": "fb:en.city"}
+{"lexeme": "oak lawn", "formula": "fb:en.city.oak_lawn_il", "type": "fb:en.city"}
+{"lexeme": "skokie", "formula": "fb:en.city.skokie_il", "type": "fb:en.city"}
+{"lexeme": "champaign", "formula": "fb:en.city.champaign_il", "type": "fb:en.city"}
+{"lexeme": "south bend", "formula": "fb:en.city.south_bend_in", "type": "fb:en.city"}
+{"lexeme": "hammond", "formula": "fb:en.city.hammond_in", "type": "fb:en.city"}
+{"lexeme": "muncie", "formula": "fb:en.city.muncie_in", "type": "fb:en.city"}
+{"lexeme": "anderson", "formula": "fb:en.city.anderson_in", "type": "fb:en.city"}
+{"lexeme": "terre haute", "formula": "fb:en.city.terre_haute_in", "type": "fb:en.city"}
+{"lexeme": "waterloo", "formula": "fb:en.city.waterloo_ia", "type": "fb:en.city"}
+{"lexeme": "dubuque", "formula": "fb:en.city.dubuque_ia", "type": "fb:en.city"}
+{"lexeme": "lafayette", "formula": "fb:en.city.lafayette_la", "type": "fb:en.city"}
+{"lexeme": "lake charles", "formula": "fb:en.city.lake_charles_la", "type": "fb:en.city"}
+{"lexeme": "kenner", "formula": "fb:en.city.kenner_la", "type": "fb:en.city"}
+{"lexeme": "monroe", "formula": "fb:en.city.monroe_la", "type": "fb:en.city"}
+{"lexeme": "cambridge", "formula": "fb:en.city.cambridge_ma", "type": "fb:en.city"}
+{"lexeme": "brockton", "formula": "fb:en.city.brockton_ma", "type": "fb:en.city"}
+{"lexeme": "fall river", "formula": "fb:en.city.fall_river_ma", "type": "fb:en.city"}
+{"lexeme": "lowell", "formula": "fb:en.city.lowell_ma", "type": "fb:en.city"}
+{"lexeme": "quincy", "formula": "fb:en.city.quincy_ma", "type": "fb:en.city"}
+{"lexeme": "newton", "formula": "fb:en.city.newton_ma", "type": "fb:en.city"}
+{"lexeme": "lynn", "formula": "fb:en.city.lynn_ma", "type": "fb:en.city"}
+{"lexeme": "somerville", "formula": "fb:en.city.somerville_ma", "type": "fb:en.city"}
+{"lexeme": "framingham", "formula": "fb:en.city.framingham_ma", "type": "fb:en.city"}
+{"lexeme": "lawrence", "formula": "fb:en.city.lawrence_ma", "type": "fb:en.city"}
+{"lexeme": "waltham", "formula": "fb:en.city.waltham_ma", "type": "fb:en.city"}
+{"lexeme": "medford", "formula": "fb:en.city.medford_ma", "type": "fb:en.city"}
+{"lexeme": "lansing", "formula": "fb:en.city.lansing_mi", "type": "fb:en.city"}
+{"lexeme": "sterling heights", "formula": "fb:en.city.sterling_heights_mi", "type": "fb:en.city"}
+{"lexeme": "ann arbor", "formula": "fb:en.city.ann_arbor_mi", "type": "fb:en.city"}
+{"lexeme": "livonia", "formula": "fb:en.city.livonia_mi", "type": "fb:en.city"}
+{"lexeme": "dearborn", "formula": "fb:en.city.dearborn_mi", "type": "fb:en.city"}
+{"lexeme": "westland", "formula": "fb:en.city.westland_mi", "type": "fb:en.city"}
+{"lexeme": "kalamazoo", "formula": "fb:en.city.kalamazoo_mi", "type": "fb:en.city"}
+{"lexeme": "taylor", "formula": "fb:en.city.taylor_mi", "type": "fb:en.city"}
+{"lexeme": "saginaw", "formula": "fb:en.city.saginaw_mi", "type": "fb:en.city"}
+{"lexeme": "pontiac", "formula": "fb:en.city.pontiac_mi", "type": "fb:en.city"}
+{"lexeme": "clair shores", "formula": "fb:en.city.st._clair_shores_mi", "type": "fb:en.city"}
+{"lexeme": "southfield", "formula": "fb:en.city.southfield_mi", "type": "fb:en.city"}
+{"lexeme": "clinton", "formula": "fb:en.city.clinton_mi", "type": "fb:en.city"}
+{"lexeme": "royal oak", "formula": "fb:en.city.royal_oak_mi", "type": "fb:en.city"}
+{"lexeme": "dearborn heights", "formula": "fb:en.city.dearborn_heights_mi", "type": "fb:en.city"}
+{"lexeme": "troy", "formula": "fb:en.city.troy_mi", "type": "fb:en.city"}
+{"lexeme": "waterford", "formula": "fb:en.city.waterford_mi", "type": "fb:en.city"}
+{"lexeme": "wyoming", "formula": "fb:en.city.wyoming_mi", "type": "fb:en.city"}
+{"lexeme": "redford", "formula": "fb:en.city.redford_mi", "type": "fb:en.city"}
+{"lexeme": "farmington hills", "formula": "fb:en.city.farmington_hills_mi", "type": "fb:en.city"}
+{"lexeme": "rochester", "formula": "fb:en.city.rochester_mn", "type": "fb:en.city"}
+{"lexeme": "joseph", "formula": "fb:en.city.st._joseph_mo", "type": "fb:en.city"}
+{"lexeme": "columbia", "formula": "fb:en.city.columbia_mo", "type": "fb:en.city"}
+{"lexeme": "trenton", "formula": "fb:en.city.trenton_nj", "type": "fb:en.city"}
+{"lexeme": "woodbridge", "formula": "fb:en.city.woodbridge_nj", "type": "fb:en.city"}
+{"lexeme": "camden", "formula": "fb:en.city.camden_nj", "type": "fb:en.city"}
+{"lexeme": "east orange", "formula": "fb:en.city.east_orange_nj", "type": "fb:en.city"}
+{"lexeme": "clifton", "formula": "fb:en.city.clifton_nj", "type": "fb:en.city"}
+{"lexeme": "edison", "formula": "fb:en.city.edison_nj", "type": "fb:en.city"}
+{"lexeme": "cherry hill", "formula": "fb:en.city.cherry_hill_nj", "type": "fb:en.city"}
+{"lexeme": "bayonne", "formula": "fb:en.city.bayonne_nj", "type": "fb:en.city"}
+{"lexeme": "middletown", "formula": "fb:en.city.middletown_nj", "type": "fb:en.city"}
+{"lexeme": "irvington", "formula": "fb:en.city.irvington_nj", "type": "fb:en.city"}
+{"lexeme": "syracuse", "formula": "fb:en.city.syracuse_ny", "type": "fb:en.city"}
+{"lexeme": "albany", "formula": "fb:en.city.albany_ny", "type": "fb:en.city"}
+{"lexeme": "cheektowaga", "formula": "fb:en.city.cheektowaga_ny", "type": "fb:en.city"}
+{"lexeme": "utica", "formula": "fb:en.city.utica_ny", "type": "fb:en.city"}
+{"lexeme": "niagara falls", "formula": "fb:en.city.niagara_falls_ny", "type": "fb:en.city"}
+{"lexeme": "new rochelle", "formula": "fb:en.city.new_rochelle_ny", "type": "fb:en.city"}
+{"lexeme": "schenectady", "formula": "fb:en.city.schenectady_ny", "type": "fb:en.city"}
+{"lexeme": "mount vernon", "formula": "fb:en.city.mount_vernon_ny", "type": "fb:en.city"}
+{"lexeme": "irondequoit", "formula": "fb:en.city.irondequoit_ny", "type": "fb:en.city"}
+{"lexeme": "levittown", "formula": "fb:en.city.levittown_ny", "type": "fb:en.city"}
+{"lexeme": "durham", "formula": "fb:en.city.durham_nc", "type": "fb:en.city"}
+{"lexeme": "high point", "formula": "fb:en.city.high_point_nc", "type": "fb:en.city"}
+{"lexeme": "fayetteville", "formula": "fb:en.city.fayetteville_nc", "type": "fb:en.city"}
+{"lexeme": "akron", "formula": "fb:en.city.akron_oh", "type": "fb:en.city"}
+{"lexeme": "dayton", "formula": "fb:en.city.dayton_oh", "type": "fb:en.city"}
+{"lexeme": "youngstown", "formula": "fb:en.city.youngstown_oh", "type": "fb:en.city"}
+{"lexeme": "canton", "formula": "fb:en.city.canton_oh", "type": "fb:en.city"}
+{"lexeme": "parma", "formula": "fb:en.city.parma_oh", "type": "fb:en.city"}
+{"lexeme": "lorain", "formula": "fb:en.city.lorain_oh", "type": "fb:en.city"}
+{"lexeme": "springfield", "formula": "fb:en.city.springfield_oh", "type": "fb:en.city"}
+{"lexeme": "hamilton", "formula": "fb:en.city.hamilton_oh", "type": "fb:en.city"}
+{"lexeme": "lakewood", "formula": "fb:en.city.lakewood_oh", "type": "fb:en.city"}
+{"lexeme": "kettering", "formula": "fb:en.city.kettering_oh", "type": "fb:en.city"}
+{"lexeme": "euclid", "formula": "fb:en.city.euclid_oh", "type": "fb:en.city"}
+{"lexeme": "elyria", "formula": "fb:en.city.elyria_oh", "type": "fb:en.city"}
+{"lexeme": "scranton", "formula": "fb:en.city.scranton_pa", "type": "fb:en.city"}
+{"lexeme": "upper darby", "formula": "fb:en.city.upper_darby_pa", "type": "fb:en.city"}
+{"lexeme": "reading", "formula": "fb:en.city.reading_pa", "type": "fb:en.city"}
+{"lexeme": "bethlehem", "formula": "fb:en.city.bethlehem_pa", "type": "fb:en.city"}
+{"lexeme": "lower merion", "formula": "fb:en.city.lower_merion_pa", "type": "fb:en.city"}
+{"lexeme": "abingdon", "formula": "fb:en.city.abingdon_pa", "type": "fb:en.city"}
+{"lexeme": "bristol township", "formula": "fb:en.city.bristol_township_pa", "type": "fb:en.city"}
+{"lexeme": "penn hills", "formula": "fb:en.city.penn_hills_pa", "type": "fb:en.city"}
+{"lexeme": "altoona", "formula": "fb:en.city.altoona_pa", "type": "fb:en.city"}
+{"lexeme": "fort worth", "formula": "fb:en.city.fort_worth_tx", "type": "fb:en.city"}
+{"lexeme": "austin", "formula": "fb:en.city.austin_tx", "type": "fb:en.city"}
+{"lexeme": "corpus christi", "formula": "fb:en.city.corpus_christi_tx", "type": "fb:en.city"}
+{"lexeme": "lubbock", "formula": "fb:en.city.lubbock_tx", "type": "fb:en.city"}
+{"lexeme": "arlington", "formula": "fb:en.city.arlington_tx", "type": "fb:en.city"}
+{"lexeme": "amarillo", "formula": "fb:en.city.amarillo_tx", "type": "fb:en.city"}
+{"lexeme": "garland", "formula": "fb:en.city.garland_tx", "type": "fb:en.city"}
+{"lexeme": "beaumont", "formula": "fb:en.city.beaumont_tx", "type": "fb:en.city"}
+{"lexeme": "pasadena", "formula": "fb:en.city.pasadena_tx", "type": "fb:en.city"}
+{"lexeme": "irving", "formula": "fb:en.city.irving_tx", "type": "fb:en.city"}
+{"lexeme": "waco", "formula": "fb:en.city.waco_tx", "type": "fb:en.city"}
+{"lexeme": "abilene", "formula": "fb:en.city.abilene_tx", "type": "fb:en.city"}
+{"lexeme": "wichita falls", "formula": "fb:en.city.wichita_falls_tx", "type": "fb:en.city"}
+{"lexeme": "laredo", "formula": "fb:en.city.laredo_tx", "type": "fb:en.city"}
+{"lexeme": "odessa", "formula": "fb:en.city.odessa_tx", "type": "fb:en.city"}
+{"lexeme": "brownsville", "formula": "fb:en.city.brownsville_tx", "type": "fb:en.city"}
+{"lexeme": "san angelo", "formula": "fb:en.city.san_angelo_tx", "type": "fb:en.city"}
+{"lexeme": "richardson", "formula": "fb:en.city.richardson_tx", "type": "fb:en.city"}
+{"lexeme": "plano", "formula": "fb:en.city.plano_tx", "type": "fb:en.city"}
+{"lexeme": "grand prairie", "formula": "fb:en.city.grand_prairie_tx", "type": "fb:en.city"}
+{"lexeme": "midland", "formula": "fb:en.city.midland_tx", "type": "fb:en.city"}
+{"lexeme": "tyler", "formula": "fb:en.city.tyler_tx", "type": "fb:en.city"}
+{"lexeme": "mesquite", "formula": "fb:en.city.mesquite_tx", "type": "fb:en.city"}
+{"lexeme": "mcallen", "formula": "fb:en.city.mcallen_tx", "type": "fb:en.city"}
+{"lexeme": "longview", "formula": "fb:en.city.longview_tx", "type": "fb:en.city"}
+{"lexeme": "port arthur", "formula": "fb:en.city.port_arthur_tx", "type": "fb:en.city"}
+{"lexeme": "newport news", "formula": "fb:en.city.newport_news_va", "type": "fb:en.city"}
+{"lexeme": "hampton", "formula": "fb:en.city.hampton_va", "type": "fb:en.city"}
+{"lexeme": "chesapeake", "formula": "fb:en.city.chesapeake_va", "type": "fb:en.city"}
+{"lexeme": "portsmouth", "formula": "fb:en.city.portsmouth_va", "type": "fb:en.city"}
+{"lexeme": "alexandria", "formula": "fb:en.city.alexandria_va", "type": "fb:en.city"}
+{"lexeme": "roanoke", "formula": "fb:en.city.roanoke_va", "type": "fb:en.city"}
+{"lexeme": "lynchburg", "formula": "fb:en.city.lynchburg_va", "type": "fb:en.city"}
+{"lexeme": "kenosha", "formula": "fb:en.city.kenosha_wi", "type": "fb:en.city"}
+{"lexeme": "west allis", "formula": "fb:en.city.west_allis_wi", "type": "fb:en.city"}
+{"lexeme": "appleton", "formula": "fb:en.city.appleton_wi", "type": "fb:en.city"}
+{"lexeme": "alabama", "formula": "fb:en.state.alabama", "type": "fb:en.state"}
+{"lexeme": "alaska", "formula": "fb:en.state.alaska", "type": "fb:en.state"}
+{"lexeme": "arizona", "formula": "fb:en.state.arizona", "type": "fb:en.state"}
+{"lexeme": "arkansas", "formula": "fb:en.state.arkansas", "type": "fb:en.state"}
+{"lexeme": "california", "formula": "fb:en.state.california", "type": "fb:en.state"}
+{"lexeme": "colorado", "formula": "fb:en.state.colorado", "type": "fb:en.state"}
+{"lexeme": "connecticut", "formula": "fb:en.state.connecticut", "type": "fb:en.state"}
+{"lexeme": "delaware", "formula": "fb:en.state.delaware", "type": "fb:en.state"}
+{"lexeme": "district of columbia", "formula": "fb:en.state.district_of_columbia", "type": "fb:en.state"}
+{"lexeme": "florida", "formula": "fb:en.state.florida", "type": "fb:en.state"}
+{"lexeme": "georgia", "formula": "fb:en.state.georgia", "type": "fb:en.state"}
+{"lexeme": "hawaii", "formula": "fb:en.state.hawaii", "type": "fb:en.state"}
+{"lexeme": "idaho", "formula": "fb:en.state.idaho", "type": "fb:en.state"}
+{"lexeme": "illinois", "formula": "fb:en.state.illinois", "type": "fb:en.state"}
+{"lexeme": "indiana", "formula": "fb:en.state.indiana", "type": "fb:en.state"}
+{"lexeme": "iowa", "formula": "fb:en.state.iowa", "type": "fb:en.state"}
+{"lexeme": "kansas", "formula": "fb:en.state.kansas", "type": "fb:en.state"}
+{"lexeme": "kentucky", "formula": "fb:en.state.kentucky", "type": "fb:en.state"}
+{"lexeme": "louisiana", "formula": "fb:en.state.louisiana", "type": "fb:en.state"}
+{"lexeme": "maine", "formula": "fb:en.state.maine", "type": "fb:en.state"}
+{"lexeme": "maryland", "formula": "fb:en.state.maryland", "type": "fb:en.state"}
+{"lexeme": "massachusetts", "formula": "fb:en.state.massachusetts", "type": "fb:en.state"}
+{"lexeme": "michigan", "formula": "fb:en.state.michigan", "type": "fb:en.state"}
+{"lexeme": "minnesota", "formula": "fb:en.state.minnesota", "type": "fb:en.state"}
+{"lexeme": "mississippi", "formula": "fb:en.state.mississippi", "type": "fb:en.state"}
+{"lexeme": "missouri", "formula": "fb:en.state.missouri", "type": "fb:en.state"}
+{"lexeme": "montana", "formula": "fb:en.state.montana", "type": "fb:en.state"}
+{"lexeme": "nebraska", "formula": "fb:en.state.nebraska", "type": "fb:en.state"}
+{"lexeme": "nevada", "formula": "fb:en.state.nevada", "type": "fb:en.state"}
+{"lexeme": "new hampshire", "formula": "fb:en.state.new_hampshire", "type": "fb:en.state"}
+{"lexeme": "new jersey", "formula": "fb:en.state.new_jersey", "type": "fb:en.state"}
+{"lexeme": "new mexico", "formula": "fb:en.state.new_mexico", "type": "fb:en.state"}
+{"lexeme": "new york", "formula": "fb:en.state.new_york", "type": "fb:en.state"}
+{"lexeme": "north carolina", "formula": "fb:en.state.north_carolina", "type": "fb:en.state"}
+{"lexeme": "north dakota", "formula": "fb:en.state.north_dakota", "type": "fb:en.state"}
+{"lexeme": "ohio", "formula": "fb:en.state.ohio", "type": "fb:en.state"}
+{"lexeme": "oklahoma", "formula": "fb:en.state.oklahoma", "type": "fb:en.state"}
+{"lexeme": "oregon", "formula": "fb:en.state.oregon", "type": "fb:en.state"}
+{"lexeme": "pennsylvania", "formula": "fb:en.state.pennsylvania", "type": "fb:en.state"}
+{"lexeme": "rhode island", "formula": "fb:en.state.rhode_island", "type": "fb:en.state"}
+{"lexeme": "south carolina", "formula": "fb:en.state.south_carolina", "type": "fb:en.state"}
+{"lexeme": "south dakota", "formula": "fb:en.state.south_dakota", "type": "fb:en.state"}
+{"lexeme": "tennessee", "formula": "fb:en.state.tennessee", "type": "fb:en.state"}
+{"lexeme": "texas", "formula": "fb:en.state.texas", "type": "fb:en.state"}
+{"lexeme": "utah", "formula": "fb:en.state.utah", "type": "fb:en.state"}
+{"lexeme": "vermont", "formula": "fb:en.state.vermont", "type": "fb:en.state"}
+{"lexeme": "virginia", "formula": "fb:en.state.virginia", "type": "fb:en.state"}
+{"lexeme": "washington", "formula": "fb:en.state.washington", "type": "fb:en.state"}
+{"lexeme": "west virginia", "formula": "fb:en.state.west_virginia", "type": "fb:en.state"}
+{"lexeme": "wisconsin", "formula": "fb:en.state.wisconsin", "type": "fb:en.state"}
+{"lexeme": "wyoming", "formula": "fb:en.state.wyoming", "type": "fb:en.state"}
+{"lexeme": "mississippi river", "formula": "fb:en.river.mississippi", "type": "fb:en.river"}
+{"lexeme": "the mississippi", "formula": "fb:en.river.mississippi", "type": "fb:en.river"}
+{"lexeme": "missouri river", "formula": "fb:en.river.missouri", "type": "fb:en.river"}
+{"lexeme": "colorado river", "formula": "fb:en.river.colorado", "type": "fb:en.river"}
+{"lexeme": "ohio river", "formula": "fb:en.river.ohio", "type": "fb:en.river"}
+{"lexeme": "red river", "formula": "fb:en.river.red", "type": "fb:en.river"}
+{"lexeme": "arkansas river", "formula": "fb:en.river.arkansas", "type": "fb:en.river"}
+{"lexeme": "canadian river", "formula": "fb:en.river.canadian", "type": "fb:en.river"}
+{"lexeme": "connecticut river", "formula": "fb:en.river.connecticut", "type": "fb:en.river"}
+{"lexeme": "delaware river", "formula": "fb:en.river.delaware", "type": "fb:en.river"}
+{"lexeme": "little missouri river", "formula": "fb:en.river.little_missouri", "type": "fb:en.river"}
+{"lexeme": "snake river", "formula": "fb:en.river.snake", "type": "fb:en.river"}
+{"lexeme": "chattahoochee river", "formula": "fb:en.river.chattahoochee", "type": "fb:en.river"}
+{"lexeme": "cimarron river", "formula": "fb:en.river.cimarron", "type": "fb:en.river"}
+{"lexeme": "green river", "formula": "fb:en.river.green", "type": "fb:en.river"}
+{"lexeme": "north platte river", "formula": "fb:en.river.north_platte", "type": "fb:en.river"}
+{"lexeme": "potomac river", "formula": "fb:en.river.potomac", "type": "fb:en.river"}
+{"lexeme": "republican river", "formula": "fb:en.river.republican", "type": "fb:en.river"}
+{"lexeme": "rio grande river", "formula": "fb:en.river.rio_grande", "type": "fb:en.river"}
+{"lexeme": "san juan river", "formula": "fb:en.river.san_juan", "type": "fb:en.river"}
+{"lexeme": "tennessee river", "formula": "fb:en.river.tennessee", "type": "fb:en.river"}
+{"lexeme": "wabash river", "formula": "fb:en.river.wabash", "type": "fb:en.river"}
+{"lexeme": "yellowstone river", "formula": "fb:en.river.yellowstone", "type": "fb:en.river"}
+{"lexeme": "allegheny river", "formula": "fb:en.river.allegheny", "type": "fb:en.river"}
+{"lexeme": "bighorn river", "formula": "fb:en.river.bighorn", "type": "fb:en.river"}
+{"lexeme": "cheyenne river", "formula": "fb:en.river.cheyenne", "type": "fb:en.river"}
+{"lexeme": "clark fork river", "formula": "fb:en.river.clark_fork", "type": "fb:en.river"}
+{"lexeme": "columbia river", "formula": "fb:en.river.columbia", "type": "fb:en.river"}
+{"lexeme": "cumberland river", "formula": "fb:en.river.cumberland", "type": "fb:en.river"}
+{"lexeme": "dakota river", "formula": "fb:en.river.dakota", "type": "fb:en.river"}
+{"lexeme": "gila river", "formula": "fb:en.river.gila", "type": "fb:en.river"}
+{"lexeme": "hudson river", "formula": "fb:en.river.hudson", "type": "fb:en.river"}
+{"lexeme": "neosho river", "formula": "fb:en.river.neosho", "type": "fb:en.river"}
+{"lexeme": "niobrara river", "formula": "fb:en.river.niobrara", "type": "fb:en.river"}
+{"lexeme": "ouachita river", "formula": "fb:en.river.ouachita", "type": "fb:en.river"}
+{"lexeme": "pearl river", "formula": "fb:en.river.pearl", "type": "fb:en.river"}
+{"lexeme": "pecos river", "formula": "fb:en.river.pecos", "type": "fb:en.river"}
+{"lexeme": "powder river", "formula": "fb:en.river.powder", "type": "fb:en.river"}
+{"lexeme": "roanoke river", "formula": "fb:en.river.roanoke", "type": "fb:en.river"}
+{"lexeme": "rock river", "formula": "fb:en.river.rock", "type": "fb:en.river"}
+{"lexeme": "smoky hill river", "formula": "fb:en.river.smoky_hill", "type": "fb:en.river"}
+{"lexeme": "south platte river", "formula": "fb:en.river.south_platte", "type": "fb:en.river"}
+{"lexeme": "francis river", "formula": "fb:en.river.st._francis", "type": "fb:en.river"}
+{"lexeme": "tombigbee river", "formula": "fb:en.river.tombigbee", "type": "fb:en.river"}
+{"lexeme": "washita river", "formula": "fb:en.river.washita", "type": "fb:en.river"}
+{"lexeme": "wateree catawba river", "formula": "fb:en.river.wateree_catawba", "type": "fb:en.river"}
+{"lexeme": "white river", "formula": "fb:en.river.white", "type": "fb:en.river"}
+{"lexeme": "cheaha mountain", "formula": "fb:en.place.cheaha_mountain", "type": "fb:en.place"}
+{"lexeme": "mount mckinley", "formula": "fb:en.place.mount_mckinley", "type": "fb:en.place"}
+{"lexeme": "humphreys peak", "formula": "fb:en.place.humphreys_peak", "type": "fb:en.place"}
+{"lexeme": "magazine mountain", "formula": "fb:en.place.magazine_mountain", "type": "fb:en.place"}
+{"lexeme": "mount whitney", "formula": "fb:en.place.mount_whitney", "type": "fb:en.place"}
+{"lexeme": "mount elbert", "formula": "fb:en.place.mount_elbert", "type": "fb:en.place"}
+{"lexeme": "mount frissell", "formula": "fb:en.place.mount_frissell", "type": "fb:en.place"}
+{"lexeme": "centerville", "formula": "fb:en.place.centerville", "type": "fb:en.place"}
+{"lexeme": "tenleytown", "formula": "fb:en.place.tenleytown", "type": "fb:en.place"}
+{"lexeme": "walton county", "formula": "fb:en.place.walton_county", "type": "fb:en.place"}
+{"lexeme": "brasstown bald", "formula": "fb:en.place.brasstown_bald", "type": "fb:en.place"}
+{"lexeme": "mauna kea", "formula": "fb:en.place.mauna_kea", "type": "fb:en.place"}
+{"lexeme": "borah peak", "formula": "fb:en.place.borah_peak", "type": "fb:en.place"}
+{"lexeme": "charles mound", "formula": "fb:en.place.charles_mound", "type": "fb:en.place"}
+{"lexeme": "franklin township", "formula": "fb:en.place.franklin_township", "type": "fb:en.place"}
+{"lexeme": "ocheyedan mound", "formula": "fb:en.place.ocheyedan_mound", "type": "fb:en.place"}
+{"lexeme": "mount sunflower", "formula": "fb:en.place.mount_sunflower", "type": "fb:en.place"}
+{"lexeme": "black mountain", "formula": "fb:en.place.black_mountain", "type": "fb:en.place"}
+{"lexeme": "driskill mountain", "formula": "fb:en.place.driskill_mountain", "type": "fb:en.place"}
+{"lexeme": "mount katahdin", "formula": "fb:en.place.mount_katahdin", "type": "fb:en.place"}
+{"lexeme": "backbone mountain", "formula": "fb:en.place.backbone_mountain", "type": "fb:en.place"}
+{"lexeme": "mount greylock", "formula": "fb:en.place.mount_greylock", "type": "fb:en.place"}
+{"lexeme": "mount curwood", "formula": "fb:en.place.mount_curwood", "type": "fb:en.place"}
+{"lexeme": "eagle mountain", "formula": "fb:en.place.eagle_mountain", "type": "fb:en.place"}
+{"lexeme": "woodall mountain", "formula": "fb:en.place.woodall_mountain", "type": "fb:en.place"}
+{"lexeme": "taum sauk mountain", "formula": "fb:en.place.taum_sauk_mountain", "type": "fb:en.place"}
+{"lexeme": "granite peak", "formula": "fb:en.place.granite_peak", "type": "fb:en.place"}
+{"lexeme": "johnson township", "formula": "fb:en.place.johnson_township", "type": "fb:en.place"}
+{"lexeme": "boundary peak", "formula": "fb:en.place.boundary_peak", "type": "fb:en.place"}
+{"lexeme": "mount washington", "formula": "fb:en.place.mount_washington", "type": "fb:en.place"}
+{"lexeme": "high point", "formula": "fb:en.place.high_point", "type": "fb:en.place"}
+{"lexeme": "wheeler peak", "formula": "fb:en.place.wheeler_peak", "type": "fb:en.place"}
+{"lexeme": "mount marcy", "formula": "fb:en.place.mount_marcy", "type": "fb:en.place"}
+{"lexeme": "mount mitchell", "formula": "fb:en.place.mount_mitchell", "type": "fb:en.place"}
+{"lexeme": "white butte", "formula": "fb:en.place.white_butte", "type": "fb:en.place"}
+{"lexeme": "campbell hill", "formula": "fb:en.place.campbell_hill", "type": "fb:en.place"}
+{"lexeme": "black mesa", "formula": "fb:en.place.black_mesa", "type": "fb:en.place"}
+{"lexeme": "mount hood", "formula": "fb:en.place.mount_hood", "type": "fb:en.place"}
+{"lexeme": "mount davis", "formula": "fb:en.place.mount_davis", "type": "fb:en.place"}
+{"lexeme": "jerimoth hill", "formula": "fb:en.place.jerimoth_hill", "type": "fb:en.place"}
+{"lexeme": "sassafras mountain", "formula": "fb:en.place.sassafras_mountain", "type": "fb:en.place"}
+{"lexeme": "harney peak", "formula": "fb:en.place.harney_peak", "type": "fb:en.place"}
+{"lexeme": "clingmans dome", "formula": "fb:en.place.clingmans_dome", "type": "fb:en.place"}
+{"lexeme": "guadalupe peak", "formula": "fb:en.place.guadalupe_peak", "type": "fb:en.place"}
+{"lexeme": "kings peak", "formula": "fb:en.place.kings_peak", "type": "fb:en.place"}
+{"lexeme": "mount mansfield", "formula": "fb:en.place.mount_mansfield", "type": "fb:en.place"}
+{"lexeme": "mount rogers", "formula": "fb:en.place.mount_rogers", "type": "fb:en.place"}
+{"lexeme": "mount rainier", "formula": "fb:en.place.mount_rainier", "type": "fb:en.place"}
+{"lexeme": "spruce knob", "formula": "fb:en.place.spruce_knob", "type": "fb:en.place"}
+{"lexeme": "timms hill", "formula": "fb:en.place.timms_hill", "type": "fb:en.place"}
+{"lexeme": "gannett peak", "formula": "fb:en.place.gannett_peak", "type": "fb:en.place"}
+{"lexeme": "gulf of mexico", "formula": "fb:en.place.gulf_of_mexico", "type": "fb:en.place"}
+{"lexeme": "pacific ocean", "formula": "fb:en.place.pacific_ocean", "type": "fb:en.place"}
+{"lexeme": "colorado river", "formula": "fb:en.place.colorado_river", "type": "fb:en.place"}
+{"lexeme": "ouachita river", "formula": "fb:en.place.ouachita_river", "type": "fb:en.place"}
+{"lexeme": "death valley", "formula": "fb:en.place.death_valley", "type": "fb:en.place"}
+{"lexeme": "arkansas river", "formula": "fb:en.place.arkansas_river", "type": "fb:en.place"}
+{"lexeme": "long island sound", "formula": "fb:en.place.long_island_sound", "type": "fb:en.place"}
+{"lexeme": "atlantic ocean", "formula": "fb:en.place.atlantic_ocean", "type": "fb:en.place"}
+{"lexeme": "potomac river", "formula": "fb:en.place.potomac_river", "type": "fb:en.place"}
+{"lexeme": "snake river", "formula": "fb:en.place.snake_river", "type": "fb:en.place"}
+{"lexeme": "mississippi river", "formula": "fb:en.place.mississippi_river", "type": "fb:en.place"}
+{"lexeme": "ohio river", "formula": "fb:en.place.ohio_river", "type": "fb:en.place"}
+{"lexeme": "verdigris river", "formula": "fb:en.place.verdigris_river", "type": "fb:en.place"}
+{"lexeme": "new orleans", "formula": "fb:en.place.new_orleans", "type": "fb:en.place"}
+{"lexeme": "lake erie", "formula": "fb:en.place.lake_erie", "type": "fb:en.place"}
+{"lexeme": "lake superior", "formula": "fb:en.place.lake_superior", "type": "fb:en.place"}
+{"lexeme": "francis river", "formula": "fb:en.place.st._francis_river", "type": "fb:en.place"}
+{"lexeme": "kootenai river", "formula": "fb:en.place.kootenai_river", "type": "fb:en.place"}
+{"lexeme": "southeast corner", "formula": "fb:en.place.southeast_corner", "type": "fb:en.place"}
+{"lexeme": "red bluff reservoir", "formula": "fb:en.place.red_bluff_reservoir", "type": "fb:en.place"}
+{"lexeme": "red river", "formula": "fb:en.place.red_river", "type": "fb:en.place"}
+{"lexeme": "little river", "formula": "fb:en.place.little_river", "type": "fb:en.place"}
+{"lexeme": "delaware river", "formula": "fb:en.place.delaware_river", "type": "fb:en.place"}
+{"lexeme": "big stone lake", "formula": "fb:en.place.big_stone_lake", "type": "fb:en.place"}
+{"lexeme": "beaver dam creek", "formula": "fb:en.place.beaver_dam_creek", "type": "fb:en.place"}
+{"lexeme": "lake champlain", "formula": "fb:en.place.lake_champlain", "type": "fb:en.place"}
+{"lexeme": "lake michigan", "formula": "fb:en.place.lake_michigan", "type": "fb:en.place"}
+{"lexeme": "belle fourche river", "formula": "fb:en.place.belle_fourche_river", "type": "fb:en.place"}
+{"lexeme": "superior lake", "formula": "fb:en.lake.superior", "type": "fb:en.lake"}
+{"lexeme": "huron lake", "formula": "fb:en.lake.huron", "type": "fb:en.lake"}
+{"lexeme": "michigan lake", "formula": "fb:en.lake.michigan", "type": "fb:en.lake"}
+{"lexeme": "erie lake", "formula": "fb:en.lake.erie", "type": "fb:en.lake"}
+{"lexeme": "ontario lake", "formula": "fb:en.lake.ontario", "type": "fb:en.lake"}
+{"lexeme": "great salt lake", "formula": "fb:en.lake.great_salt_lake", "type": "fb:en.lake"}
+{"lexeme": "lake of the woods", "formula": "fb:en.lake.lake_of_the_woods", "type": "fb:en.lake"}
+{"lexeme": "iliamna lake", "formula": "fb:en.lake.iliamna", "type": "fb:en.lake"}
+{"lexeme": "okeechobee lake", "formula": "fb:en.lake.okeechobee", "type": "fb:en.lake"}
+{"lexeme": "pontchartrain lake", "formula": "fb:en.lake.pontchartrain", "type": "fb:en.lake"}
+{"lexeme": "becharof lake", "formula": "fb:en.lake.becharof", "type": "fb:en.lake"}
+{"lexeme": "red lake", "formula": "fb:en.lake.red", "type": "fb:en.lake"}
+{"lexeme": "clair lake", "formula": "fb:en.lake.st._clair", "type": "fb:en.lake"}
+{"lexeme": "champlain lake", "formula": "fb:en.lake.champlain", "type": "fb:en.lake"}
+{"lexeme": "rainy lake", "formula": "fb:en.lake.rainy", "type": "fb:en.lake"}
+{"lexeme": "salton sea lake", "formula": "fb:en.lake.salton_sea", "type": "fb:en.lake"}
+{"lexeme": "teshekpuk lake", "formula": "fb:en.lake.teshekpuk", "type": "fb:en.lake"}
+{"lexeme": "naknek lake", "formula": "fb:en.lake.naknek", "type": "fb:en.lake"}
+{"lexeme": "winnebago lake", "formula": "fb:en.lake.winnebago", "type": "fb:en.lake"}
+{"lexeme": "mille lacs lake", "formula": "fb:en.lake.mille_lacs", "type": "fb:en.lake"}
+{"lexeme": "flathead lake", "formula": "fb:en.lake.flathead", "type": "fb:en.lake"}
+{"lexeme": "tahoe lake", "formula": "fb:en.lake.tahoe", "type": "fb:en.lake"}
+{"lexeme": "mount mckinley", "formula": "fb:en.mountain.mckinley", "type": "fb:en.mountain"}
+{"lexeme": "mount elias", "formula": "fb:en.mountain.st._elias", "type": "fb:en.mountain"}
+{"lexeme": "mount foraker", "formula": "fb:en.mountain.foraker", "type": "fb:en.mountain"}
+{"lexeme": "mount bona", "formula": "fb:en.mountain.bona", "type": "fb:en.mountain"}
+{"lexeme": "mount blackburn", "formula": "fb:en.mountain.blackburn", "type": "fb:en.mountain"}
+{"lexeme": "mount kennedy", "formula": "fb:en.mountain.kennedy", "type": "fb:en.mountain"}
+{"lexeme": "mount sanford", "formula": "fb:en.mountain.sanford", "type": "fb:en.mountain"}
+{"lexeme": "mount south buttress", "formula": "fb:en.mountain.south_buttress", "type": "fb:en.mountain"}
+{"lexeme": "mount vancouver", "formula": "fb:en.mountain.vancouver", "type": "fb:en.mountain"}
+{"lexeme": "mount churchill", "formula": "fb:en.mountain.churchill", "type": "fb:en.mountain"}
+{"lexeme": "mount fairweather", "formula": "fb:en.mountain.fairweather", "type": "fb:en.mountain"}
+{"lexeme": "mount hubbard", "formula": "fb:en.mountain.hubbard", "type": "fb:en.mountain"}
+{"lexeme": "mount bear", "formula": "fb:en.mountain.bear", "type": "fb:en.mountain"}
+{"lexeme": "mount east buttress", "formula": "fb:en.mountain.east_buttress", "type": "fb:en.mountain"}
+{"lexeme": "mount hunter", "formula": "fb:en.mountain.hunter", "type": "fb:en.mountain"}
+{"lexeme": "mount alverstone", "formula": "fb:en.mountain.alverstone", "type": "fb:en.mountain"}
+{"lexeme": "mount browne tower", "formula": "fb:en.mountain.browne_tower", "type": "fb:en.mountain"}
+{"lexeme": "mount whitney", "formula": "fb:en.mountain.whitney", "type": "fb:en.mountain"}
+{"lexeme": "mount elbert", "formula": "fb:en.mountain.elbert", "type": "fb:en.mountain"}
+{"lexeme": "mount massive", "formula": "fb:en.mountain.massive", "type": "fb:en.mountain"}
+{"lexeme": "mount harvard", "formula": "fb:en.mountain.harvard", "type": "fb:en.mountain"}
+{"lexeme": "mount rainier", "formula": "fb:en.mountain.rainier", "type": "fb:en.mountain"}
+{"lexeme": "mount williamson", "formula": "fb:en.mountain.williamson", "type": "fb:en.mountain"}
+{"lexeme": "mount bianca", "formula": "fb:en.mountain.bianca", "type": "fb:en.mountain"}
+{"lexeme": "mount la plata", "formula": "fb:en.mountain.la_plata", "type": "fb:en.mountain"}
+{"lexeme": "mount uncompahgre", "formula": "fb:en.mountain.uncompahgre", "type": "fb:en.mountain"}
+{"lexeme": "mount crestone", "formula": "fb:en.mountain.crestone", "type": "fb:en.mountain"}
+{"lexeme": "mount lincoln", "formula": "fb:en.mountain.lincoln", "type": "fb:en.mountain"}
+{"lexeme": "mount grays", "formula": "fb:en.mountain.grays", "type": "fb:en.mountain"}
+{"lexeme": "mount antero", "formula": "fb:en.mountain.antero", "type": "fb:en.mountain"}
+{"lexeme": "mount torreys", "formula": "fb:en.mountain.torreys", "type": "fb:en.mountain"}
+{"lexeme": "mount castle", "formula": "fb:en.mountain.castle", "type": "fb:en.mountain"}
+{"lexeme": "mount quandary", "formula": "fb:en.mountain.quandary", "type": "fb:en.mountain"}
+{"lexeme": "mount evans", "formula": "fb:en.mountain.evans", "type": "fb:en.mountain"}
+{"lexeme": "mount longs", "formula": "fb:en.mountain.longs", "type": "fb:en.mountain"}
+{"lexeme": "mount wilson", "formula": "fb:en.mountain.wilson", "type": "fb:en.mountain"}
+{"lexeme": "mount white", "formula": "fb:en.mountain.white", "type": "fb:en.mountain"}
+{"lexeme": "mount north palisade", "formula": "fb:en.mountain.north_palisade", "type": "fb:en.mountain"}
+{"lexeme": "mount shavano", "formula": "fb:en.mountain.shavano", "type": "fb:en.mountain"}
+{"lexeme": "mount belford", "formula": "fb:en.mountain.belford", "type": "fb:en.mountain"}
+{"lexeme": "mount princeton", "formula": "fb:en.mountain.princeton", "type": "fb:en.mountain"}
+{"lexeme": "mount crestone needle", "formula": "fb:en.mountain.crestone_needle", "type": "fb:en.mountain"}
+{"lexeme": "mount yale", "formula": "fb:en.mountain.yale", "type": "fb:en.mountain"}
+{"lexeme": "mount bross", "formula": "fb:en.mountain.bross", "type": "fb:en.mountain"}
+{"lexeme": "mount kit carson", "formula": "fb:en.mountain.kit_carson", "type": "fb:en.mountain"}
+{"lexeme": "mount wrangell", "formula": "fb:en.mountain.wrangell", "type": "fb:en.mountain"}
+{"lexeme": "mount shasta", "formula": "fb:en.mountain.shasta", "type": "fb:en.mountain"}
+{"lexeme": "mount sill", "formula": "fb:en.mountain.sill", "type": "fb:en.mountain"}
+{"lexeme": "mount el diente", "formula": "fb:en.mountain.el_diente", "type": "fb:en.mountain"}
+{"lexeme": "mount maroon", "formula": "fb:en.mountain.maroon", "type": "fb:en.mountain"}
+{"lexeme": "usa", "formula": "fb:en.country.usa", "type": "fb:en.country"}
+{"lexeme": "us", "formula": "fb:en.country.usa", "type": "fb:en.country"}
+{"lexeme": "united states", "formula": "fb:en.country.usa", "type": "fb:en.country"}

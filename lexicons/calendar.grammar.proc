@@ -1,0 +1,18 @@
+alice	en.person.alice	_entity_
+length	length	_relation_num_
+attendee	attendee	_relation_
+hours	en.hour	_entity_num_
+end time	end_time	_relation_date_
+date	date	_relation_date_
+person	en.person	_entity_type_
+start time	start_time	_relation_date_
+bob	en.person.bob	_entity_
+annual review	en.meeting.annual_review	_entity_
+location	en.location	_entity_type_
+hour	en.hour	_entity_num_
+is important	is_important	_relation_unary_
+meeting	en.meeting	_entity_type_
+central office	en.location.central_office	_entity_
+weekly standup	en.meeting.weekly_standup	_entity_
+location	location	_relation_
+greenberg cafe	en.location.greenberg_cafe	_entity_

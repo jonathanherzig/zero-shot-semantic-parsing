@@ -1,0 +1,13 @@
+won an award	won_award	_relation_unary_
+multivariate data analysis	en.article.multivariate_data_analysis	_entity_
+author	author	_relation_
+venue	en.venue	_entity_type_
+venue	venue	_relation_
+lakoff	en.person.lakoff	_entity_
+computational linguistics	en.venue.computational_linguistics	_entity_
+person	en.person	_entity_type_
+cites	cites	_relation_
+publication date	publication_date	_relation_date_
+efron	en.person.efron	_entity_
+article	en.article	_entity_type_
+annals of statistics	en.venue.annals_of_statistics	_entity_
